@@ -43,7 +43,7 @@
           <mxGeometry y="234" width="366" height="26" as="geometry" />
         </mxCell>
         <mxCell id="A8OxmwOQw2GTd8wpq_th-9" value="Flat" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="480" width="366" height="240" as="geometry">
+          <mxGeometry x="110" y="344" width="366" height="240" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -81,7 +81,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A8OxmwOQw2GTd8wpq_th-20" value="Facility" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="113" width="366" height="80" as="geometry">
+          <mxGeometry x="450" y="113" width="366" height="80" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -90,6 +90,12 @@
         </mxCell>
         <mxCell id="A8OxmwOQw2GTd8wpq_th-22" value="- name: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="A8OxmwOQw2GTd8wpq_th-20">
           <mxGeometry y="52" width="366" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="A8OxmwOQw2GTd8wpq_th-32" value="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="359" y="119" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A8OxmwOQw2GTd8wpq_th-33" value="*" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="408" y="119" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
