@@ -55,7 +55,7 @@
             <mxRectangle x="120" y="360" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A8OxmwOQw2GTd8wpq_th-10" value="+ numberOfBedrooms: int" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="A8OxmwOQw2GTd8wpq_th-9">
+        <mxCell id="A8OxmwOQw2GTd8wpq_th-10" value="- numberOfBedrooms: int" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="A8OxmwOQw2GTd8wpq_th-9">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="A8OxmwOQw2GTd8wpq_th-38" value="+ printDetails(): void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="A8OxmwOQw2GTd8wpq_th-9">
@@ -92,7 +92,7 @@
             <mxRectangle x="120" y="360" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A8OxmwOQw2GTd8wpq_th-42" value="+ roomNumber: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="A8OxmwOQw2GTd8wpq_th-41">
+        <mxCell id="A8OxmwOQw2GTd8wpq_th-42" value="- roomNumber: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="A8OxmwOQw2GTd8wpq_th-41">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="A8OxmwOQw2GTd8wpq_th-43" value="+ printDetails(): void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="A8OxmwOQw2GTd8wpq_th-41">
@@ -115,7 +115,7 @@
             <mxRectangle x="120" y="360" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A8OxmwOQw2GTd8wpq_th-47" value="+ squareFootage: double" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="A8OxmwOQw2GTd8wpq_th-46">
+        <mxCell id="A8OxmwOQw2GTd8wpq_th-47" value="- squareFootage: double" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="A8OxmwOQw2GTd8wpq_th-46">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="A8OxmwOQw2GTd8wpq_th-48" value="+ printDetails(): void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="A8OxmwOQw2GTd8wpq_th-46">
@@ -142,7 +142,7 @@
             <mxRectangle x="120" y="360" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A8OxmwOQw2GTd8wpq_th-52" value="+ hostIsPresent: boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="A8OxmwOQw2GTd8wpq_th-51">
+        <mxCell id="A8OxmwOQw2GTd8wpq_th-52" value="- hostIsPresent: boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="A8OxmwOQw2GTd8wpq_th-51">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="A8OxmwOQw2GTd8wpq_th-53" value="+ printDetails(): void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="A8OxmwOQw2GTd8wpq_th-51">
